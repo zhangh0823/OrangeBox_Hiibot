@@ -1,0 +1,30 @@
+{
+    "name": "orangebox",
+    "version": "0.0.1",
+    "description": "A Microsoft MakeCode package for the Orange box of the HiiBot.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "file:../core"
+    },
+    "files": [
+        "README.md",
+        "HumidityTemperatureSensor_SHT31.ts",
+        "AngleSensor.ts", 
+        "UltrasonicRangefinder.ts",
+        "TouchSensor.ts",
+        "LightSensor.ts",
+        "ColorSensor.ts",
+        "Car.ts",
+        "SoundRecordPlayer.ts",
+        "SteeringGear.ts",
+        "_locales/bluebox-jsdoc-strings.json",
+        "_locales/bluebox-strings.json",
+        "_locales/zh/orangebox-strings.json",
+        "_locales/zh/orangebox-jsdoc-strings.json",
+        "neopixel.ts",
+        "main.ts",
+        "sendBuffer.asm"
+    ],
+    "public": true
+
+}

@@ -1,0 +1,3803 @@
+{
+ "byQName": {
+  "SHT31ControlAddr": {
+   "kind": 6,
+   "namespace": "",
+   "name": "SHT31ControlAddr",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "SHT31ControlAddr"
+   },
+   "pkg": null,
+   "retType": "SHT31ControlAddr",
+   "parameters": null,
+   "qName": "SHT31ControlAddr"
+  },
+  "SHT31ControlAddr.SHT31_MEAS_HIGHREP_STRETCH": {
+   "kind": 7,
+   "namespace": "SHT31ControlAddr",
+   "name": "SHT31_MEAS_HIGHREP_STRETCH",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "SHT31_MEAS_HIGHREP_STRETCH"
+   },
+   "pkg": null,
+   "retType": "SHT31ControlAddr",
+   "parameters": null,
+   "qName": "SHT31ControlAddr.SHT31_MEAS_HIGHREP_STRETCH"
+  },
+  "SHT31ControlAddr.SHT31_MEAS_MEDREP_STRETCH": {
+   "kind": 7,
+   "namespace": "SHT31ControlAddr",
+   "name": "SHT31_MEAS_MEDREP_STRETCH",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "SHT31_MEAS_MEDREP_STRETCH"
+   },
+   "pkg": null,
+   "retType": "SHT31ControlAddr",
+   "parameters": null,
+   "qName": "SHT31ControlAddr.SHT31_MEAS_MEDREP_STRETCH"
+  },
+  "SHT31ControlAddr.SHT31_MEAS_LOWREP_STRETCH": {
+   "kind": 7,
+   "namespace": "SHT31ControlAddr",
+   "name": "SHT31_MEAS_LOWREP_STRETCH",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "SHT31_MEAS_LOWREP_STRETCH"
+   },
+   "pkg": null,
+   "retType": "SHT31ControlAddr",
+   "parameters": null,
+   "qName": "SHT31ControlAddr.SHT31_MEAS_LOWREP_STRETCH"
+  },
+  "SHT31ControlAddr.SHT31_MEAS_HIGHREP": {
+   "kind": 7,
+   "namespace": "SHT31ControlAddr",
+   "name": "SHT31_MEAS_HIGHREP",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "SHT31_MEAS_HIGHREP"
+   },
+   "pkg": null,
+   "retType": "SHT31ControlAddr",
+   "parameters": null,
+   "qName": "SHT31ControlAddr.SHT31_MEAS_HIGHREP"
+  },
+  "SHT31ControlAddr.SHT31_MEAS_MEDREP": {
+   "kind": 7,
+   "namespace": "SHT31ControlAddr",
+   "name": "SHT31_MEAS_MEDREP",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "SHT31_MEAS_MEDREP"
+   },
+   "pkg": null,
+   "retType": "SHT31ControlAddr",
+   "parameters": null,
+   "qName": "SHT31ControlAddr.SHT31_MEAS_MEDREP"
+  },
+  "SHT31ControlAddr.SHT31_MEAS_LOWREP": {
+   "kind": 7,
+   "namespace": "SHT31ControlAddr",
+   "name": "SHT31_MEAS_LOWREP",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "SHT31_MEAS_LOWREP"
+   },
+   "pkg": null,
+   "retType": "SHT31ControlAddr",
+   "parameters": null,
+   "qName": "SHT31ControlAddr.SHT31_MEAS_LOWREP"
+  },
+  "SHT31ControlAddr.SHT31_READSTATUS": {
+   "kind": 7,
+   "namespace": "SHT31ControlAddr",
+   "name": "SHT31_READSTATUS",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "SHT31_READSTATUS"
+   },
+   "pkg": null,
+   "retType": "SHT31ControlAddr",
+   "parameters": null,
+   "qName": "SHT31ControlAddr.SHT31_READSTATUS"
+  },
+  "SHT31ControlAddr.SHT31_CLEARSTATUS": {
+   "kind": 7,
+   "namespace": "SHT31ControlAddr",
+   "name": "SHT31_CLEARSTATUS",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "SHT31_CLEARSTATUS"
+   },
+   "pkg": null,
+   "retType": "SHT31ControlAddr",
+   "parameters": null,
+   "qName": "SHT31ControlAddr.SHT31_CLEARSTATUS"
+  },
+  "SHT31ControlAddr.SHT31_SOFTRESET": {
+   "kind": 7,
+   "namespace": "SHT31ControlAddr",
+   "name": "SHT31_SOFTRESET",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "SHT31_SOFTRESET"
+   },
+   "pkg": null,
+   "retType": "SHT31ControlAddr",
+   "parameters": null,
+   "qName": "SHT31ControlAddr.SHT31_SOFTRESET"
+  },
+  "SHT31ControlAddr.SHT31_HEATEREN": {
+   "kind": 7,
+   "namespace": "SHT31ControlAddr",
+   "name": "SHT31_HEATEREN",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "SHT31_HEATEREN"
+   },
+   "pkg": null,
+   "retType": "SHT31ControlAddr",
+   "parameters": null,
+   "qName": "SHT31ControlAddr.SHT31_HEATEREN"
+  },
+  "SHT31ControlAddr.SHT31_HEATERDIS": {
+   "kind": 7,
+   "namespace": "SHT31ControlAddr",
+   "name": "SHT31_HEATERDIS",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "SHT31_HEATERDIS"
+   },
+   "pkg": null,
+   "retType": "SHT31ControlAddr",
+   "parameters": null,
+   "qName": "SHT31ControlAddr.SHT31_HEATERDIS"
+  },
+  "sensor": {
+   "kind": 5,
+   "namespace": "",
+   "name": "sensor",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "weight": 10,
+    "color": "#FF7926",
+    "icon": "",
+    "block": "橙盒传感器",
+    "groups": "[\"角度传感器\", \"温湿度传感器\", \"光照传感器\", \"触摸传感器\", \"超声波距离传感器\"]",
+    "paramHelp": {},
+    "jsDoc": "Functions to operate NeoPixel strips."
+   },
+   "pkg": null,
+   "retType": "",
+   "parameters": null,
+   "qName": "sensor"
+  },
+  "sensor.HumidityTemperatureSensorSHT31": {
+   "kind": 8,
+   "namespace": "sensor",
+   "name": "HumidityTemperatureSensorSHT31",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "BlueBox  HumidityTemperatureSensorSHT31",
+    "_name": "HumidityTemperatureSensorSHT31"
+   },
+   "pkg": null,
+   "extendsTypes": [],
+   "retType": "sensor.HumidityTemperatureSensorSHT31",
+   "parameters": null,
+   "qName": "sensor.HumidityTemperatureSensorSHT31"
+  },
+  "sensor.HumidityTemperatureSensorSHT31.humidity": {
+   "kind": 2,
+   "namespace": "sensor.HumidityTemperatureSensorSHT31",
+   "name": "humidity",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "humidity"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": null,
+   "qName": "sensor.HumidityTemperatureSensorSHT31.humidity"
+  },
+  "sensor.HumidityTemperatureSensorSHT31.cTemperature": {
+   "kind": 2,
+   "namespace": "sensor.HumidityTemperatureSensorSHT31",
+   "name": "cTemperature",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "cTemperature"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": null,
+   "qName": "sensor.HumidityTemperatureSensorSHT31.cTemperature"
+  },
+  "sensor.HumidityTemperatureSensorSHT31.fTemperature": {
+   "kind": 2,
+   "namespace": "sensor.HumidityTemperatureSensorSHT31",
+   "name": "fTemperature",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "fTemperature"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": null,
+   "qName": "sensor.HumidityTemperatureSensorSHT31.fTemperature"
+  },
+  "sensor.HumidityTemperatureSensorSHT31.sht31Init": {
+   "kind": 1,
+   "namespace": "sensor.HumidityTemperatureSensorSHT31",
+   "name": "sht31Init",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "sht31Init"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [],
+   "snippet": "sht31Init()",
+   "qName": "sensor.HumidityTemperatureSensorSHT31.sht31Init"
+  },
+  "sensor.HumidityTemperatureSensorSHT31.measureHumTemp": {
+   "kind": 1,
+   "namespace": "sensor.HumidityTemperatureSensorSHT31",
+   "name": "measureHumTemp",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "measureHumTemp"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [],
+   "snippet": "measureHumTemp()",
+   "qName": "sensor.HumidityTemperatureSensorSHT31.measureHumTemp"
+  },
+  "sensor.measurehumidityTemperature": {
+   "kind": 3,
+   "namespace": "sensor",
+   "name": "measurehumidityTemperature",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "group": "温湿度传感器",
+    "blockId": "bluebox_HumidityTemperatureSensorSHT31_measure_humidity_temperature",
+    "block": "测量温湿度",
+    "paramHelp": {},
+    "jsDoc": "measure humidity Temperature",
+    "_name": "measurehumidityTemperature"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [],
+   "snippet": "measurehumidityTemperature()",
+   "qName": "sensor.measurehumidityTemperature"
+  },
+  "sensor.acquireHumidityTemperatureWithCelsius": {
+   "kind": 3,
+   "namespace": "sensor",
+   "name": "acquireHumidityTemperatureWithCelsius",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "group": "温湿度传感器",
+    "blockId": "bluebox_HumidityTemperatureSensorSHT31_temperature_with_celsius",
+    "block": "获取温度（摄氏度）",
+    "paramHelp": {},
+    "jsDoc": "get current temperaure in celsius",
+    "_name": "acquireHumidityTemperatureWithCelsius"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [],
+   "snippet": "acquireHumidityTemperatureWithCelsius()",
+   "qName": "sensor.acquireHumidityTemperatureWithCelsius"
+  },
+  "sensor.acquireHumidityTemperatureWithFahrenheit": {
+   "kind": 3,
+   "namespace": "sensor",
+   "name": "acquireHumidityTemperatureWithFahrenheit",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "group": "温湿度传感器",
+    "blockId": "bluebox_HumidityTemperatureSensorSHT31_temperature_with_fahrenheit",
+    "block": "获取温度（华氏度）",
+    "paramHelp": {},
+    "jsDoc": "get current temperaure in fahrenheit",
+    "_name": "acquireHumidityTemperatureWithFahrenheit"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [],
+   "snippet": "acquireHumidityTemperatureWithFahrenheit()",
+   "qName": "sensor.acquireHumidityTemperatureWithFahrenheit"
+  },
+  "sensor.acquireCurrentHumidity": {
+   "kind": 3,
+   "namespace": "sensor",
+   "name": "acquireCurrentHumidity",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "group": "温湿度传感器",
+    "blockId": "bluebox_HumidityTemperatureSensorSHT31_humidity",
+    "block": "获取湿度",
+    "paramHelp": {},
+    "jsDoc": "get current humidity",
+    "_name": "acquireCurrentHumidity"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [],
+   "snippet": "acquireCurrentHumidity()",
+   "qName": "sensor.acquireCurrentHumidity"
+  },
+  "sensor.AngleSensor": {
+   "kind": 8,
+   "namespace": "sensor",
+   "name": "AngleSensor",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "OrangeBox AngleSensor",
+    "_name": "AngleSensor"
+   },
+   "pkg": null,
+   "extendsTypes": [],
+   "retType": "sensor.AngleSensor",
+   "parameters": null,
+   "qName": "sensor.AngleSensor"
+  },
+  "sensor.AngleSensor.pinOut": {
+   "kind": 2,
+   "namespace": "sensor.AngleSensor",
+   "name": "pinOut",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "pinOut"
+   },
+   "pkg": null,
+   "retType": "AnalogPin",
+   "parameters": null,
+   "qName": "sensor.AngleSensor.pinOut"
+  },
+  "sensor.readAngle": {
+   "kind": 3,
+   "namespace": "sensor",
+   "name": "readAngle",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "group": "角度传感器",
+    "parts": "angle",
+    "weight": null,
+    "blockId": "bluebox_angleSensor",
+    "block": "读取引脚|%pinOut|上的角度",
+    "paramHelp": {},
+    "jsDoc": "Read angle from AngleSensor",
+    "_name": "readAngle"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [
+    {
+     "name": "pinOut",
+     "description": "",
+     "type": "AnalogPin",
+     "options": {},
+     "isEnum": true
+    }
+   ],
+   "snippet": "readAngle(null)",
+   "qName": "sensor.readAngle"
+  },
+  "sensor.UltrasonicRangefinder": {
+   "kind": 8,
+   "namespace": "sensor",
+   "name": "UltrasonicRangefinder",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "Orangebox UltrasonicRangefinder",
+    "_name": "UltrasonicRangefinder"
+   },
+   "pkg": null,
+   "extendsTypes": [],
+   "retType": "sensor.UltrasonicRangefinder",
+   "parameters": null,
+   "qName": "sensor.UltrasonicRangefinder"
+  },
+  "sensor.UltrasonicRangefinder.distanceBackup": {
+   "kind": 2,
+   "namespace": "sensor.UltrasonicRangefinder",
+   "name": "distanceBackup",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "distanceBackup"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": null,
+   "qName": "sensor.UltrasonicRangefinder.distanceBackup"
+  },
+  "sensor.UltrasonicRangefinder.pinEcho": {
+   "kind": 2,
+   "namespace": "sensor.UltrasonicRangefinder",
+   "name": "pinEcho",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "pinEcho"
+   },
+   "pkg": null,
+   "retType": "DigitalPin",
+   "parameters": null,
+   "qName": "sensor.UltrasonicRangefinder.pinEcho"
+  },
+  "sensor.UltrasonicRangefinder.pinTrig": {
+   "kind": 2,
+   "namespace": "sensor.UltrasonicRangefinder",
+   "name": "pinTrig",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "pinTrig"
+   },
+   "pkg": null,
+   "retType": "DigitalPin",
+   "parameters": null,
+   "qName": "sensor.UltrasonicRangefinder.pinTrig"
+  },
+  "sensor.UltrasonicRangefinder.measureInCentimeters": {
+   "kind": 1,
+   "namespace": "sensor.UltrasonicRangefinder",
+   "name": "measureInCentimeters",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "group": "超声波距离传感器",
+    "blockId": "bluebox_ultrasonicRangefinder_centimeters",
+    "block": "%ultrasonicRangefinder|读取距离（厘米）",
+    "paramHelp": {},
+    "jsDoc": "Ultrasonic Sensor to measure distances in cm",
+    "_name": "measureInCentimeters"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [],
+   "snippet": "measureInCentimeters()",
+   "qName": "sensor.UltrasonicRangefinder.measureInCentimeters"
+  },
+  "sensor.UltrasonicRangefinder.measureInInches": {
+   "kind": 1,
+   "namespace": "sensor.UltrasonicRangefinder",
+   "name": "measureInInches",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "group": "超声波距离传感器",
+    "blockId": "bluebox_ultrasonicRangefinder_inches",
+    "block": "%ultrasonicRangefinder|读取距离（英尺）",
+    "paramHelp": {},
+    "jsDoc": "Ultrasonic Sensor to measure distances in inch",
+    "_name": "measureInInches"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [],
+   "snippet": "measureInInches()",
+   "qName": "sensor.UltrasonicRangefinder.measureInInches"
+  },
+  "sensor.createUltrasonicRangefinder": {
+   "kind": 3,
+   "namespace": "sensor",
+   "name": "createUltrasonicRangefinder",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "weight": 90,
+    "group": "超声波距离传感器",
+    "blockId": "bluebox_ultrasonicRangefinder_create",
+    "block": "在|%pinEcho|and|%pinTrig|引脚上的距离传感器",
+    "paramHelp": {
+     "pinEcho": "singal pin of ultrasonic echo",
+     "pinTrig": "singal pin of ultrasonic trig"
+    },
+    "jsDoc": "Create a new Ultrasonic Sensor",
+    "_name": "createUltrasonicRangefinder"
+   },
+   "pkg": null,
+   "retType": "sensor.UltrasonicRangefinder",
+   "parameters": [
+    {
+     "name": "pinEcho",
+     "description": "singal pin of ultrasonic echo",
+     "type": "DigitalPin",
+     "options": {},
+     "isEnum": true
+    },
+    {
+     "name": "pinTrig",
+     "description": "singal pin of ultrasonic trig",
+     "type": "DigitalPin",
+     "options": {},
+     "isEnum": true
+    }
+   ],
+   "snippet": "createUltrasonicRangefinder(null, null)",
+   "qName": "sensor.createUltrasonicRangefinder"
+  },
+  "TouchEvent": {
+   "kind": 6,
+   "namespace": "",
+   "name": "TouchEvent",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "TouchEvent"
+   },
+   "pkg": null,
+   "retType": "TouchEvent",
+   "parameters": null,
+   "qName": "TouchEvent"
+  },
+  "TouchEvent.Touch": {
+   "kind": 7,
+   "namespace": "TouchEvent",
+   "name": "Touch",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "touch",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Touch"
+   },
+   "pkg": null,
+   "retType": "TouchEvent",
+   "parameters": null,
+   "qName": "TouchEvent.Touch"
+  },
+  "TouchEvent.NoTouch": {
+   "kind": 7,
+   "namespace": "TouchEvent",
+   "name": "NoTouch",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "noTouch",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "NoTouch"
+   },
+   "pkg": null,
+   "retType": "TouchEvent",
+   "parameters": null,
+   "qName": "TouchEvent.NoTouch"
+  },
+  "sensor.TouchSensor": {
+   "kind": 8,
+   "namespace": "sensor",
+   "name": "TouchSensor",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "OrangeBox TouchSensor",
+    "_name": "TouchSensor"
+   },
+   "pkg": null,
+   "extendsTypes": [],
+   "retType": "sensor.TouchSensor",
+   "parameters": null,
+   "qName": "sensor.TouchSensor"
+  },
+  "sensor.TouchSensor.pinOut": {
+   "kind": 2,
+   "namespace": "sensor.TouchSensor",
+   "name": "pinOut",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "pinOut"
+   },
+   "pkg": null,
+   "retType": "DigitalPin",
+   "parameters": null,
+   "qName": "sensor.TouchSensor.pinOut"
+  },
+  "sensor.readTouchSensorState": {
+   "kind": 3,
+   "namespace": "sensor",
+   "name": "readTouchSensorState",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "group": "触摸传感器",
+    "blockId": "bluebox_touchSensor",
+    "block": "读取引脚|%pinOut|上触摸传感器的值",
+    "paramHelp": {},
+    "jsDoc": "Read TouchSensor state",
+    "_name": "readTouchSensorState"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [
+    {
+     "name": "pinOut",
+     "description": "",
+     "type": "DigitalPin",
+     "options": {},
+     "isEnum": true
+    }
+   ],
+   "snippet": "readTouchSensorState(null)",
+   "qName": "sensor.readTouchSensorState"
+  },
+  "sensor.DigitalLightSensor": {
+   "kind": 8,
+   "namespace": "sensor",
+   "name": "DigitalLightSensor",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "BlueBox DigitalLightSensor",
+    "_name": "DigitalLightSensor"
+   },
+   "pkg": null,
+   "extendsTypes": [],
+   "retType": "sensor.DigitalLightSensor",
+   "parameters": null,
+   "qName": "sensor.DigitalLightSensor"
+  },
+  "sensor.DigitalLightSensor.pinOut": {
+   "kind": 2,
+   "namespace": "sensor.DigitalLightSensor",
+   "name": "pinOut",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "pinOut"
+   },
+   "pkg": null,
+   "retType": "AnalogPin",
+   "parameters": null,
+   "qName": "sensor.DigitalLightSensor.pinOut"
+  },
+  "sensor.readLight": {
+   "kind": 3,
+   "namespace": "sensor",
+   "name": "readLight",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "group": "光照传感器",
+    "weight": null,
+    "blockId": "bluebox_digitalLightSensor",
+    "block": "读取引脚|%pinOut|上的光照强度",
+    "paramHelp": {},
+    "jsDoc": "Read angle from AngleSensor",
+    "_name": "readLight"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [
+    {
+     "name": "pinOut",
+     "description": "",
+     "type": "AnalogPin",
+     "options": {},
+     "isEnum": true
+    }
+   ],
+   "snippet": "readLight(null)",
+   "qName": "sensor.readLight"
+  },
+  "ColorSensorPixelColors": {
+   "kind": 6,
+   "namespace": "",
+   "name": "ColorSensorPixelColors",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "Well known colors for a NeoPixel strip\n\nWell known colors for a NeoPixel strip"
+   },
+   "pkg": null,
+   "retType": "ColorSensorPixelColors",
+   "parameters": null,
+   "qName": "ColorSensorPixelColors"
+  },
+  "ColorSensorPixelColors.Red1": {
+   "kind": 7,
+   "namespace": "ColorSensorPixelColors",
+   "name": "Red1",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "red",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Red1"
+   },
+   "pkg": null,
+   "retType": "ColorSensorPixelColors",
+   "parameters": null,
+   "qName": "ColorSensorPixelColors.Red1"
+  },
+  "ColorSensorPixelColors.Orange1": {
+   "kind": 7,
+   "namespace": "ColorSensorPixelColors",
+   "name": "Orange1",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "orange",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Orange1"
+   },
+   "pkg": null,
+   "retType": "ColorSensorPixelColors",
+   "parameters": null,
+   "qName": "ColorSensorPixelColors.Orange1"
+  },
+  "ColorSensorPixelColors.Yellow1": {
+   "kind": 7,
+   "namespace": "ColorSensorPixelColors",
+   "name": "Yellow1",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "yellow",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Yellow1"
+   },
+   "pkg": null,
+   "retType": "ColorSensorPixelColors",
+   "parameters": null,
+   "qName": "ColorSensorPixelColors.Yellow1"
+  },
+  "ColorSensorPixelColors.Green1": {
+   "kind": 7,
+   "namespace": "ColorSensorPixelColors",
+   "name": "Green1",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "green",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Green1"
+   },
+   "pkg": null,
+   "retType": "ColorSensorPixelColors",
+   "parameters": null,
+   "qName": "ColorSensorPixelColors.Green1"
+  },
+  "ColorSensorPixelColors.Blue1": {
+   "kind": 7,
+   "namespace": "ColorSensorPixelColors",
+   "name": "Blue1",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "blue",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Blue1"
+   },
+   "pkg": null,
+   "retType": "ColorSensorPixelColors",
+   "parameters": null,
+   "qName": "ColorSensorPixelColors.Blue1"
+  },
+  "ColorSensorPixelColors.Indigo1": {
+   "kind": 7,
+   "namespace": "ColorSensorPixelColors",
+   "name": "Indigo1",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "indigo",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Indigo1"
+   },
+   "pkg": null,
+   "retType": "ColorSensorPixelColors",
+   "parameters": null,
+   "qName": "ColorSensorPixelColors.Indigo1"
+  },
+  "ColorSensorPixelColors.Violet1": {
+   "kind": 7,
+   "namespace": "ColorSensorPixelColors",
+   "name": "Violet1",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "violet",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Violet1"
+   },
+   "pkg": null,
+   "retType": "ColorSensorPixelColors",
+   "parameters": null,
+   "qName": "ColorSensorPixelColors.Violet1"
+  },
+  "ColorSensorPixelColors.Purple1": {
+   "kind": 7,
+   "namespace": "ColorSensorPixelColors",
+   "name": "Purple1",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "purple",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Purple1"
+   },
+   "pkg": null,
+   "retType": "ColorSensorPixelColors",
+   "parameters": null,
+   "qName": "ColorSensorPixelColors.Purple1"
+  },
+  "ColorSensorPixelColors.White1": {
+   "kind": 7,
+   "namespace": "ColorSensorPixelColors",
+   "name": "White1",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "white",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "White1"
+   },
+   "pkg": null,
+   "retType": "ColorSensorPixelColors",
+   "parameters": null,
+   "qName": "ColorSensorPixelColors.White1"
+  },
+  "ColorSensorPixelColors.Black1": {
+   "kind": 7,
+   "namespace": "ColorSensorPixelColors",
+   "name": "Black1",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "black",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Black1"
+   },
+   "pkg": null,
+   "retType": "ColorSensorPixelColors",
+   "parameters": null,
+   "qName": "ColorSensorPixelColors.Black1"
+  },
+  "NeoPixelMode": {
+   "kind": 6,
+   "namespace": "",
+   "name": "NeoPixelMode",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "Different modes for RGB or RGB+W NeoPixel strips\n\nDifferent modes for RGB or RGB+W NeoPixel strips"
+   },
+   "pkg": null,
+   "retType": "NeoPixelMode",
+   "parameters": null,
+   "qName": "NeoPixelMode"
+  },
+  "NeoPixelMode.RGB1": {
+   "kind": 7,
+   "namespace": "NeoPixelMode",
+   "name": "RGB1",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "RGB (GRB format)",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "RGB1"
+   },
+   "pkg": null,
+   "retType": "NeoPixelMode",
+   "parameters": null,
+   "qName": "NeoPixelMode.RGB1"
+  },
+  "NeoPixelMode.RGBW1": {
+   "kind": 7,
+   "namespace": "NeoPixelMode",
+   "name": "RGBW1",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "RGB+W",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "RGBW1"
+   },
+   "pkg": null,
+   "retType": "NeoPixelMode",
+   "parameters": null,
+   "qName": "NeoPixelMode.RGBW1"
+  },
+  "NeoPixelMode.RGB_RGB1": {
+   "kind": 7,
+   "namespace": "NeoPixelMode",
+   "name": "RGB_RGB1",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "RGB (RGB format)",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "RGB_RGB1"
+   },
+   "pkg": null,
+   "retType": "NeoPixelMode",
+   "parameters": null,
+   "qName": "NeoPixelMode.RGB_RGB1"
+  },
+  "sensor.Strip": {
+   "kind": 8,
+   "namespace": "sensor",
+   "name": "Strip",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "A NeoPixel strip",
+    "_name": "Strip"
+   },
+   "pkg": null,
+   "extendsTypes": [],
+   "retType": "sensor.Strip",
+   "parameters": null,
+   "qName": "sensor.Strip"
+  },
+  "sensor.Strip.buf": {
+   "kind": 2,
+   "namespace": "sensor.Strip",
+   "name": "buf",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "buf"
+   },
+   "pkg": null,
+   "retType": "Buffer",
+   "parameters": null,
+   "qName": "sensor.Strip.buf"
+  },
+  "sensor.Strip.pin": {
+   "kind": 2,
+   "namespace": "sensor.Strip",
+   "name": "pin",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "pin"
+   },
+   "pkg": null,
+   "retType": "DigitalPin",
+   "parameters": null,
+   "qName": "sensor.Strip.pin"
+  },
+  "sensor.Strip.brightness": {
+   "kind": 2,
+   "namespace": "sensor.Strip",
+   "name": "brightness",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "brightness"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": null,
+   "qName": "sensor.Strip.brightness"
+  },
+  "sensor.Strip.start": {
+   "kind": 2,
+   "namespace": "sensor.Strip",
+   "name": "start",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "start"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": null,
+   "qName": "sensor.Strip.start"
+  },
+  "sensor.Strip._length": {
+   "kind": 2,
+   "namespace": "sensor.Strip",
+   "name": "_length",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "_length"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": null,
+   "qName": "sensor.Strip._length"
+  },
+  "sensor.Strip._mode": {
+   "kind": 2,
+   "namespace": "sensor.Strip",
+   "name": "_mode",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "_mode"
+   },
+   "pkg": null,
+   "retType": "NeoPixelMode",
+   "parameters": null,
+   "qName": "sensor.Strip._mode"
+  },
+  "sensor.Strip._matrixWidth": {
+   "kind": 2,
+   "namespace": "sensor.Strip",
+   "name": "_matrixWidth",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "_matrixWidth"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": null,
+   "qName": "sensor.Strip._matrixWidth"
+  },
+  "sensor.Strip.showColor": {
+   "kind": 1,
+   "namespace": "sensor.Strip",
+   "name": "showColor",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "colorSensor_showColor",
+    "block": "%strip|显示颜色 %rgb=neopixel_colors",
+    "weight": 85,
+    "blockGap": "8",
+    "group": "颜色传感器",
+    "paramHelp": {
+     "rgb": "RGB color of the LED"
+    },
+    "jsDoc": "Shows all LEDs to a given color (range 0-255 for r, g, b).",
+    "_name": "showColor"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "rgb",
+     "description": "RGB color of the LED",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "showColor(0)",
+   "qName": "sensor.Strip.showColor"
+  },
+  "sensor.Strip.showRainbow": {
+   "kind": 1,
+   "namespace": "sensor.Strip",
+   "name": "showRainbow",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "showRainbow"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "startHue",
+     "description": "",
+     "type": "number",
+     "initializer": "1",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "endHue",
+     "description": "",
+     "type": "number",
+     "initializer": "360",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "showRainbow()",
+   "qName": "sensor.Strip.showRainbow"
+  },
+  "sensor.Strip.showBarGraph": {
+   "kind": 1,
+   "namespace": "sensor.Strip",
+   "name": "showBarGraph",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "showBarGraph"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "value",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "high",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "showBarGraph(0, 0)",
+   "qName": "sensor.Strip.showBarGraph"
+  },
+  "sensor.Strip.setPixelColor": {
+   "kind": 1,
+   "namespace": "sensor.Strip",
+   "name": "setPixelColor",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "setPixelColor"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "pixeloffset",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "rgb",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "setPixelColor(0, 0)",
+   "qName": "sensor.Strip.setPixelColor"
+  },
+  "sensor.Strip.setMatrixWidth": {
+   "kind": 1,
+   "namespace": "sensor.Strip",
+   "name": "setMatrixWidth",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "setMatrixWidth"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "width",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "setMatrixWidth(0)",
+   "qName": "sensor.Strip.setMatrixWidth"
+  },
+  "sensor.Strip.setMatrixColor": {
+   "kind": 1,
+   "namespace": "sensor.Strip",
+   "name": "setMatrixColor",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "setMatrixColor"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "x",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "y",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "rgb",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "setMatrixColor(0, 0, 0)",
+   "qName": "sensor.Strip.setMatrixColor"
+  },
+  "sensor.Strip.setPixelWhiteLED": {
+   "kind": 1,
+   "namespace": "sensor.Strip",
+   "name": "setPixelWhiteLED",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "setPixelWhiteLED"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "pixeloffset",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "white",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "setPixelWhiteLED(0, 0)",
+   "qName": "sensor.Strip.setPixelWhiteLED"
+  },
+  "sensor.Strip.show": {
+   "kind": 1,
+   "namespace": "sensor.Strip",
+   "name": "show",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "show"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [],
+   "snippet": "show()",
+   "qName": "sensor.Strip.show"
+  },
+  "sensor.Strip.clear": {
+   "kind": 1,
+   "namespace": "sensor.Strip",
+   "name": "clear",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "clear"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [],
+   "snippet": "clear()",
+   "qName": "sensor.Strip.clear"
+  },
+  "sensor.Strip.length": {
+   "kind": 1,
+   "namespace": "sensor.Strip",
+   "name": "length",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "length"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [],
+   "snippet": "length()",
+   "qName": "sensor.Strip.length"
+  },
+  "sensor.Strip.setBrightness": {
+   "kind": 1,
+   "namespace": "sensor.Strip",
+   "name": "setBrightness",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "setBrightness"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "brightness",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "setBrightness(0)",
+   "qName": "sensor.Strip.setBrightness"
+  },
+  "sensor.Strip.easeBrightness": {
+   "kind": 1,
+   "namespace": "sensor.Strip",
+   "name": "easeBrightness",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "easeBrightness"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [],
+   "snippet": "easeBrightness()",
+   "qName": "sensor.Strip.easeBrightness"
+  },
+  "sensor.Strip.range": {
+   "kind": 1,
+   "namespace": "sensor.Strip",
+   "name": "range",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "range"
+   },
+   "pkg": null,
+   "retType": "sensor.Strip",
+   "parameters": [
+    {
+     "name": "start",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "length",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "range(0, 0)",
+   "qName": "sensor.Strip.range"
+  },
+  "sensor.Strip.shift": {
+   "kind": 1,
+   "namespace": "sensor.Strip",
+   "name": "shift",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "shift"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "offset",
+     "description": "",
+     "type": "number",
+     "initializer": "1",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "shift()",
+   "qName": "sensor.Strip.shift"
+  },
+  "sensor.Strip.rotate": {
+   "kind": 1,
+   "namespace": "sensor.Strip",
+   "name": "rotate",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "rotate"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "offset",
+     "description": "",
+     "type": "number",
+     "initializer": "1",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "rotate()",
+   "qName": "sensor.Strip.rotate"
+  },
+  "sensor.Strip.setPin": {
+   "kind": 1,
+   "namespace": "sensor.Strip",
+   "name": "setPin",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "setPin"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "pin",
+     "description": "",
+     "type": "DigitalPin",
+     "options": {},
+     "isEnum": true
+    }
+   ],
+   "snippet": "setPin(null)",
+   "qName": "sensor.Strip.setPin"
+  },
+  "sensor.Strip.power": {
+   "kind": 1,
+   "namespace": "sensor.Strip",
+   "name": "power",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "power"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [],
+   "snippet": "power()",
+   "qName": "sensor.Strip.power"
+  },
+  "sensor.create": {
+   "kind": 3,
+   "namespace": "sensor",
+   "name": "create",
+   "attributes": {
+    "paramDefl": {
+     "numleds": "24"
+    },
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "colorSensor_create",
+    "block": "在|%pin|上的|%numleds|个灯|%mode",
+    "weight": 90,
+    "blockGap": "8",
+    "trackArgs": [
+     0,
+     2
+    ],
+    "blockSetVariable": "strip",
+    "group": "颜色传感器",
+    "paramHelp": {
+     "pin": "the pin where the neopixel is connected.",
+     "numleds": "number of leds in the strip, eg: 24,30,60,64"
+    },
+    "jsDoc": "Create a new NeoPixel driver for `numleds` LEDs.",
+    "_name": "create"
+   },
+   "pkg": null,
+   "retType": "sensor.Strip",
+   "parameters": [
+    {
+     "name": "pin",
+     "description": "the pin where the neopixel is connected.",
+     "type": "DigitalPin",
+     "options": {},
+     "isEnum": true
+    },
+    {
+     "name": "numleds",
+     "description": "number of leds in the strip, eg: 24,30,60,64",
+     "type": "number",
+     "initializer": "24",
+     "default": "24",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "mode",
+     "description": "",
+     "type": "NeoPixelMode",
+     "options": {},
+     "isEnum": true
+    }
+   ],
+   "snippet": "create(null, 24, null)",
+   "qName": "sensor.create"
+  },
+  "sensor.rgb": {
+   "kind": 3,
+   "namespace": "sensor",
+   "name": "rgb",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "rgb"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [
+    {
+     "name": "red",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "green",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "blue",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "rgb(0, 0, 0)",
+   "qName": "sensor.rgb"
+  },
+  "sensor.colors": {
+   "kind": 3,
+   "namespace": "sensor",
+   "name": "colors",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "colors"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [
+    {
+     "name": "color",
+     "description": "",
+     "type": "ColorSensorPixelColors",
+     "options": {},
+     "isEnum": true
+    }
+   ],
+   "snippet": "colors(null)",
+   "qName": "sensor.colors"
+  },
+  "sensor.hsl": {
+   "kind": 3,
+   "namespace": "sensor",
+   "name": "hsl",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "hsl"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [
+    {
+     "name": "h",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "s",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "l",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "hsl(0, 0, 0)",
+   "qName": "sensor.hsl"
+  },
+  "sensor.HueInterpolationDirection": {
+   "kind": 6,
+   "namespace": "sensor",
+   "name": "HueInterpolationDirection",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "HueInterpolationDirection"
+   },
+   "pkg": null,
+   "retType": "sensor.HueInterpolationDirection",
+   "parameters": null,
+   "qName": "sensor.HueInterpolationDirection"
+  },
+  "sensor.HueInterpolationDirection.Clockwise": {
+   "kind": 7,
+   "namespace": "sensor.HueInterpolationDirection",
+   "name": "Clockwise",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Clockwise"
+   },
+   "pkg": null,
+   "retType": "sensor.HueInterpolationDirection",
+   "parameters": null,
+   "qName": "sensor.HueInterpolationDirection.Clockwise"
+  },
+  "sensor.HueInterpolationDirection.CounterClockwise": {
+   "kind": 7,
+   "namespace": "sensor.HueInterpolationDirection",
+   "name": "CounterClockwise",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "CounterClockwise"
+   },
+   "pkg": null,
+   "retType": "sensor.HueInterpolationDirection",
+   "parameters": null,
+   "qName": "sensor.HueInterpolationDirection.CounterClockwise"
+  },
+  "sensor.HueInterpolationDirection.Shortest": {
+   "kind": 7,
+   "namespace": "sensor.HueInterpolationDirection",
+   "name": "Shortest",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Shortest"
+   },
+   "pkg": null,
+   "retType": "sensor.HueInterpolationDirection",
+   "parameters": null,
+   "qName": "sensor.HueInterpolationDirection.Shortest"
+  },
+  "straight": {
+   "kind": 6,
+   "namespace": "",
+   "name": "straight",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "straight"
+   },
+   "pkg": null,
+   "retType": "straight",
+   "parameters": null,
+   "qName": "straight"
+  },
+  "straight.GoForward": {
+   "kind": 7,
+   "namespace": "straight",
+   "name": "GoForward",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "前进",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "GoForward"
+   },
+   "pkg": null,
+   "retType": "straight",
+   "parameters": null,
+   "qName": "straight.GoForward"
+  },
+  "straight.GoBackward": {
+   "kind": 7,
+   "namespace": "straight",
+   "name": "GoBackward",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "后退",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "GoBackward"
+   },
+   "pkg": null,
+   "retType": "straight",
+   "parameters": null,
+   "qName": "straight.GoBackward"
+  },
+  "turn": {
+   "kind": 6,
+   "namespace": "",
+   "name": "turn",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "turn"
+   },
+   "pkg": null,
+   "retType": "turn",
+   "parameters": null,
+   "qName": "turn"
+  },
+  "turn.TurnLeft": {
+   "kind": 7,
+   "namespace": "turn",
+   "name": "TurnLeft",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "左转",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "TurnLeft"
+   },
+   "pkg": null,
+   "retType": "turn",
+   "parameters": null,
+   "qName": "turn.TurnLeft"
+  },
+  "turn.TurnRight": {
+   "kind": 7,
+   "namespace": "turn",
+   "name": "TurnRight",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "右转",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "TurnRight"
+   },
+   "pkg": null,
+   "retType": "turn",
+   "parameters": null,
+   "qName": "turn.TurnRight"
+  },
+  "carBase": {
+   "kind": 5,
+   "namespace": "",
+   "name": "carBase",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "weight": 10,
+    "color": "#FF7926",
+    "icon": "",
+    "block": "小车底盘",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "carBase"
+   },
+   "pkg": null,
+   "retType": "",
+   "parameters": null,
+   "qName": "carBase"
+  },
+  "carBase.Car": {
+   "kind": 8,
+   "namespace": "carBase",
+   "name": "Car",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Car"
+   },
+   "pkg": null,
+   "extendsTypes": [],
+   "retType": "carBase.Car",
+   "parameters": null,
+   "qName": "carBase.Car"
+  },
+  "carBase.Car.pinRightMotor1IN": {
+   "kind": 2,
+   "namespace": "carBase.Car",
+   "name": "pinRightMotor1IN",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "pinRightMotor1IN"
+   },
+   "pkg": null,
+   "retType": "AnalogPin",
+   "parameters": null,
+   "qName": "carBase.Car.pinRightMotor1IN"
+  },
+  "carBase.Car.pinRightMotor2IN": {
+   "kind": 2,
+   "namespace": "carBase.Car",
+   "name": "pinRightMotor2IN",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "pinRightMotor2IN"
+   },
+   "pkg": null,
+   "retType": "AnalogPin",
+   "parameters": null,
+   "qName": "carBase.Car.pinRightMotor2IN"
+  },
+  "carBase.Car.pinLeftMotor1IN": {
+   "kind": 2,
+   "namespace": "carBase.Car",
+   "name": "pinLeftMotor1IN",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "pinLeftMotor1IN"
+   },
+   "pkg": null,
+   "retType": "AnalogPin",
+   "parameters": null,
+   "qName": "carBase.Car.pinLeftMotor1IN"
+  },
+  "carBase.Car.pinLeftMotor2IN": {
+   "kind": 2,
+   "namespace": "carBase.Car",
+   "name": "pinLeftMotor2IN",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "pinLeftMotor2IN"
+   },
+   "pkg": null,
+   "retType": "AnalogPin",
+   "parameters": null,
+   "qName": "carBase.Car.pinLeftMotor2IN"
+  },
+  "carBase.Car.runForward": {
+   "kind": 1,
+   "namespace": "carBase.Car",
+   "name": "runForward",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "carBase_runForward",
+    "block": "%car|小车|%direction|速度为|%speed|(0-1023)",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "runForward"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "direction",
+     "description": "",
+     "type": "straight",
+     "options": {},
+     "isEnum": true
+    },
+    {
+     "name": "speed",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "runForward(null, 0)",
+   "qName": "carBase.Car.runForward"
+  },
+  "carBase.Car.turn": {
+   "kind": 1,
+   "namespace": "carBase.Car",
+   "name": "turn",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "carBase_turn",
+    "block": "%car|小车|%direction|速度为|%speed|(0-1023)",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "turn"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "direction",
+     "description": "",
+     "type": "turn",
+     "options": {},
+     "isEnum": true
+    },
+    {
+     "name": "speed",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "turn(null, 0)",
+   "qName": "carBase.Car.turn"
+  },
+  "carBase.Car.runSteerTurn": {
+   "kind": 1,
+   "namespace": "carBase.Car",
+   "name": "runSteerTurn",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "carBase_runSteerTurn",
+    "block": "%car|小车左轮速度为|%speedL|(0-1023)，右轮速度为|%speedR|(0-1023)",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "runSteerTurn"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "speedL",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "speedR",
+     "description": "",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "runSteerTurn(0, 0)",
+   "qName": "carBase.Car.runSteerTurn"
+  },
+  "carBase.Car.runStop": {
+   "kind": 1,
+   "namespace": "carBase.Car",
+   "name": "runStop",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "carBase_stop",
+    "block": "%car|小车停止",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "runStop"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [],
+   "snippet": "runStop()",
+   "qName": "carBase.Car.runStop"
+  },
+  "carBase.createCarBase": {
+   "kind": 3,
+   "namespace": "carBase",
+   "name": "createCarBase",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "orangebox_carBase",
+    "block": "右轮在|%pinRMIn1|和|%pinRMIn2|上，左轮在|%pinLMIn1|和|%pinLMIn2|上",
+    "inlineInputMode": "inline",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "createCarBase"
+   },
+   "pkg": null,
+   "retType": "carBase.Car",
+   "parameters": [
+    {
+     "name": "pinRMIn1",
+     "description": "",
+     "type": "AnalogPin",
+     "options": {},
+     "isEnum": true
+    },
+    {
+     "name": "pinRMIn2",
+     "description": "",
+     "type": "AnalogPin",
+     "options": {},
+     "isEnum": true
+    },
+    {
+     "name": "pinLMIn1",
+     "description": "",
+     "type": "AnalogPin",
+     "options": {},
+     "isEnum": true
+    },
+    {
+     "name": "pinLMIn2",
+     "description": "",
+     "type": "AnalogPin",
+     "options": {},
+     "isEnum": true
+    }
+   ],
+   "snippet": "createCarBase(null, null, null, null)",
+   "qName": "carBase.createCarBase"
+  },
+  "output": {
+   "kind": 5,
+   "namespace": "",
+   "name": "output",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "weight": 10,
+    "color": "#FF7926",
+    "icon": "",
+    "block": "橙盒执行器",
+    "groups": "[\"语音录播\",\"颜色传感器\"]",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "output"
+   },
+   "pkg": null,
+   "retType": "",
+   "parameters": null,
+   "qName": "output"
+  },
+  "output.SoundRecordPlayer": {
+   "kind": 8,
+   "namespace": "output",
+   "name": "SoundRecordPlayer",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "BlueBox SoundRecordPlay",
+    "_name": "SoundRecordPlayer"
+   },
+   "pkg": null,
+   "extendsTypes": [],
+   "retType": "output.SoundRecordPlayer",
+   "parameters": null,
+   "qName": "output.SoundRecordPlayer"
+  },
+  "output.SoundRecordPlayer.pinPlay": {
+   "kind": 2,
+   "namespace": "output.SoundRecordPlayer",
+   "name": "pinPlay",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "pinPlay"
+   },
+   "pkg": null,
+   "retType": "DigitalPin",
+   "parameters": null,
+   "qName": "output.SoundRecordPlayer.pinPlay"
+  },
+  "output.SoundRecordPlayer.pinRecord": {
+   "kind": 2,
+   "namespace": "output.SoundRecordPlayer",
+   "name": "pinRecord",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "pinRecord"
+   },
+   "pkg": null,
+   "retType": "DigitalPin",
+   "parameters": null,
+   "qName": "output.SoundRecordPlayer.pinRecord"
+  },
+  "output.SoundRecordPlayer.stopPlayorRecord": {
+   "kind": 1,
+   "namespace": "output.SoundRecordPlayer",
+   "name": "stopPlayorRecord",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "weight": 90,
+    "group": "语音录播",
+    "blockId": "bluebox_SoundRecordPlay_Stop",
+    "block": "|%soundRecordPlayer|停止播放/录制",
+    "paramHelp": {},
+    "jsDoc": "Start play without wait",
+    "_name": "stopPlayorRecord"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [],
+   "snippet": "stopPlayorRecord()",
+   "qName": "output.SoundRecordPlayer.stopPlayorRecord"
+  },
+  "output.SoundRecordPlayer.startPlayNoWait": {
+   "kind": 1,
+   "namespace": "output.SoundRecordPlayer",
+   "name": "startPlayNoWait",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "weight": null,
+    "group": "语音录播",
+    "blockId": "bluebox_SoundRecordPlay_StartPlayNoWait",
+    "block": "|%soundRecordPlayer|播放(不等待播放完毕)",
+    "paramHelp": {},
+    "jsDoc": "Start play without wait",
+    "_name": "startPlayNoWait"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [],
+   "snippet": "startPlayNoWait()",
+   "qName": "output.SoundRecordPlayer.startPlayNoWait"
+  },
+  "output.SoundRecordPlayer.startPlayWait": {
+   "kind": 1,
+   "namespace": "output.SoundRecordPlayer",
+   "name": "startPlayWait",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "weight": null,
+    "group": "语音录播",
+    "blockId": "bluebox_SoundRecordPlay_StartPlayWait",
+    "block": "|%soundRecordPlayer|播放（等待播放完毕）",
+    "paramHelp": {},
+    "jsDoc": "Start play wait",
+    "_name": "startPlayWait"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [],
+   "snippet": "startPlayWait()",
+   "qName": "output.SoundRecordPlayer.startPlayWait"
+  },
+  "output.SoundRecordPlayer.startRecordNoWait": {
+   "kind": 1,
+   "namespace": "output.SoundRecordPlayer",
+   "name": "startRecordNoWait",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "weight": null,
+    "group": "语音录播",
+    "blockId": "bluebox_SoundRecordPlay_StartRecordNoWait",
+    "block": "|%soundRecordPlayer|开始录制（不等待录制完毕）",
+    "paramHelp": {},
+    "jsDoc": "Check play over\n\nStart record without wait",
+    "_name": "startRecordNoWait"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [],
+   "snippet": "startRecordNoWait()",
+   "qName": "output.SoundRecordPlayer.startRecordNoWait"
+  },
+  "output.SoundRecordPlayer.startRecordWait": {
+   "kind": 1,
+   "namespace": "output.SoundRecordPlayer",
+   "name": "startRecordWait",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "weight": null,
+    "group": "语音录播",
+    "blockId": "bluebox_SoundRecordPlay_StartRecordWait",
+    "block": "|%soundRecordPlayer|开始录制（等待录制完毕）",
+    "paramHelp": {},
+    "jsDoc": "Start record wait",
+    "_name": "startRecordWait"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [],
+   "snippet": "startRecordWait()",
+   "qName": "output.SoundRecordPlayer.startRecordWait"
+  },
+  "output.createSoundRecordPlayer": {
+   "kind": 3,
+   "namespace": "output",
+   "name": "createSoundRecordPlayer",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "weight": null,
+    "group": "语音录播",
+    "blockId": "bluebox_SoundRecordPlay_create",
+    "block": "在引脚|%pinPlay|和|%pinRecord|上的语音模块",
+    "paramHelp": {},
+    "jsDoc": "Create a SoundRecordPlay",
+    "_name": "createSoundRecordPlayer"
+   },
+   "pkg": null,
+   "retType": "output.SoundRecordPlayer",
+   "parameters": [
+    {
+     "name": "pinPlay",
+     "description": "",
+     "type": "DigitalPin",
+     "options": {},
+     "isEnum": true
+    },
+    {
+     "name": "pinRecord",
+     "description": "",
+     "type": "DigitalPin",
+     "options": {},
+     "isEnum": true
+    }
+   ],
+   "snippet": "createSoundRecordPlayer(null, null)",
+   "qName": "output.createSoundRecordPlayer"
+  },
+  "ColorSensorPixelColors.Red": {
+   "kind": 7,
+   "namespace": "ColorSensorPixelColors",
+   "name": "Red",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "red",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Red"
+   },
+   "pkg": null,
+   "retType": "ColorSensorPixelColors",
+   "parameters": null,
+   "qName": "ColorSensorPixelColors.Red"
+  },
+  "ColorSensorPixelColors.Orange": {
+   "kind": 7,
+   "namespace": "ColorSensorPixelColors",
+   "name": "Orange",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "orange",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Orange"
+   },
+   "pkg": null,
+   "retType": "ColorSensorPixelColors",
+   "parameters": null,
+   "qName": "ColorSensorPixelColors.Orange"
+  },
+  "ColorSensorPixelColors.Yellow": {
+   "kind": 7,
+   "namespace": "ColorSensorPixelColors",
+   "name": "Yellow",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "yellow",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Yellow"
+   },
+   "pkg": null,
+   "retType": "ColorSensorPixelColors",
+   "parameters": null,
+   "qName": "ColorSensorPixelColors.Yellow"
+  },
+  "ColorSensorPixelColors.Green": {
+   "kind": 7,
+   "namespace": "ColorSensorPixelColors",
+   "name": "Green",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "green",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Green"
+   },
+   "pkg": null,
+   "retType": "ColorSensorPixelColors",
+   "parameters": null,
+   "qName": "ColorSensorPixelColors.Green"
+  },
+  "ColorSensorPixelColors.Blue": {
+   "kind": 7,
+   "namespace": "ColorSensorPixelColors",
+   "name": "Blue",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "blue",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Blue"
+   },
+   "pkg": null,
+   "retType": "ColorSensorPixelColors",
+   "parameters": null,
+   "qName": "ColorSensorPixelColors.Blue"
+  },
+  "ColorSensorPixelColors.Indigo": {
+   "kind": 7,
+   "namespace": "ColorSensorPixelColors",
+   "name": "Indigo",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "indigo",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Indigo"
+   },
+   "pkg": null,
+   "retType": "ColorSensorPixelColors",
+   "parameters": null,
+   "qName": "ColorSensorPixelColors.Indigo"
+  },
+  "ColorSensorPixelColors.Violet": {
+   "kind": 7,
+   "namespace": "ColorSensorPixelColors",
+   "name": "Violet",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "violet",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Violet"
+   },
+   "pkg": null,
+   "retType": "ColorSensorPixelColors",
+   "parameters": null,
+   "qName": "ColorSensorPixelColors.Violet"
+  },
+  "ColorSensorPixelColors.Purple": {
+   "kind": 7,
+   "namespace": "ColorSensorPixelColors",
+   "name": "Purple",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "purple",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Purple"
+   },
+   "pkg": null,
+   "retType": "ColorSensorPixelColors",
+   "parameters": null,
+   "qName": "ColorSensorPixelColors.Purple"
+  },
+  "ColorSensorPixelColors.White": {
+   "kind": 7,
+   "namespace": "ColorSensorPixelColors",
+   "name": "White",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "white",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "White"
+   },
+   "pkg": null,
+   "retType": "ColorSensorPixelColors",
+   "parameters": null,
+   "qName": "ColorSensorPixelColors.White"
+  },
+  "ColorSensorPixelColors.Black": {
+   "kind": 7,
+   "namespace": "ColorSensorPixelColors",
+   "name": "Black",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "black",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Black"
+   },
+   "pkg": null,
+   "retType": "ColorSensorPixelColors",
+   "parameters": null,
+   "qName": "ColorSensorPixelColors.Black"
+  },
+  "NeoPixelMode.RGB": {
+   "kind": 7,
+   "namespace": "NeoPixelMode",
+   "name": "RGB",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "RGB (GRB format)",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "RGB"
+   },
+   "pkg": null,
+   "retType": "NeoPixelMode",
+   "parameters": null,
+   "qName": "NeoPixelMode.RGB"
+  },
+  "NeoPixelMode.RGBW": {
+   "kind": 7,
+   "namespace": "NeoPixelMode",
+   "name": "RGBW",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "RGB+W",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "RGBW"
+   },
+   "pkg": null,
+   "retType": "NeoPixelMode",
+   "parameters": null,
+   "qName": "NeoPixelMode.RGBW"
+  },
+  "NeoPixelMode.RGB_RGB": {
+   "kind": 7,
+   "namespace": "NeoPixelMode",
+   "name": "RGB_RGB",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "block": "RGB (RGB format)",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "RGB_RGB"
+   },
+   "pkg": null,
+   "retType": "NeoPixelMode",
+   "parameters": null,
+   "qName": "NeoPixelMode.RGB_RGB"
+  },
+  "neopixel_orange": {
+   "kind": 5,
+   "namespace": "",
+   "name": "neopixel_orange",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "weight": 5,
+    "color": "#FF7926",
+    "icon": "",
+    "block": "neopixel",
+    "paramHelp": {},
+    "jsDoc": "Functions to operate NeoPixel strips.",
+    "_name": "neopixel_orange"
+   },
+   "pkg": null,
+   "retType": "",
+   "parameters": null,
+   "qName": "neopixel_orange"
+  },
+  "neopixel_orange.Strip": {
+   "kind": 8,
+   "namespace": "neopixel_orange",
+   "name": "Strip",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "A NeoPixel strip",
+    "_name": "Strip"
+   },
+   "pkg": null,
+   "extendsTypes": [],
+   "retType": "neopixel_orange.Strip",
+   "parameters": null,
+   "qName": "neopixel_orange.Strip"
+  },
+  "neopixel_orange.Strip.buf": {
+   "kind": 2,
+   "namespace": "neopixel_orange.Strip",
+   "name": "buf",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "buf"
+   },
+   "pkg": null,
+   "retType": "Buffer",
+   "parameters": null,
+   "qName": "neopixel_orange.Strip.buf"
+  },
+  "neopixel_orange.Strip.pin": {
+   "kind": 2,
+   "namespace": "neopixel_orange.Strip",
+   "name": "pin",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "pin"
+   },
+   "pkg": null,
+   "retType": "DigitalPin",
+   "parameters": null,
+   "qName": "neopixel_orange.Strip.pin"
+  },
+  "neopixel_orange.Strip.brightness": {
+   "kind": 2,
+   "namespace": "neopixel_orange.Strip",
+   "name": "brightness",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "brightness"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": null,
+   "qName": "neopixel_orange.Strip.brightness"
+  },
+  "neopixel_orange.Strip.start": {
+   "kind": 2,
+   "namespace": "neopixel_orange.Strip",
+   "name": "start",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "start"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": null,
+   "qName": "neopixel_orange.Strip.start"
+  },
+  "neopixel_orange.Strip._length": {
+   "kind": 2,
+   "namespace": "neopixel_orange.Strip",
+   "name": "_length",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "_length"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": null,
+   "qName": "neopixel_orange.Strip._length"
+  },
+  "neopixel_orange.Strip._mode": {
+   "kind": 2,
+   "namespace": "neopixel_orange.Strip",
+   "name": "_mode",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "_mode"
+   },
+   "pkg": null,
+   "retType": "NeoPixelMode",
+   "parameters": null,
+   "qName": "neopixel_orange.Strip._mode"
+  },
+  "neopixel_orange.Strip._matrixWidth": {
+   "kind": 2,
+   "namespace": "neopixel_orange.Strip",
+   "name": "_matrixWidth",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "_matrixWidth"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": null,
+   "qName": "neopixel_orange.Strip._matrixWidth"
+  },
+  "neopixel_orange.Strip.showColor": {
+   "kind": 1,
+   "namespace": "neopixel_orange.Strip",
+   "name": "showColor",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "neopixel_set_strip_color",
+    "block": "%strip|show color %rgb=neopixel_colors",
+    "weight": 85,
+    "blockGap": "8",
+    "paramHelp": {
+     "rgb": "RGB color of the LED"
+    },
+    "jsDoc": "Shows all LEDs to a given color (range 0-255 for r, g, b).",
+    "_name": "showColor"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "rgb",
+     "description": "RGB color of the LED",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "showColor(0)",
+   "qName": "neopixel_orange.Strip.showColor"
+  },
+  "neopixel_orange.Strip.showRainbow": {
+   "kind": 1,
+   "namespace": "neopixel_orange.Strip",
+   "name": "showRainbow",
+   "attributes": {
+    "paramDefl": {
+     "startHue": "1",
+     "endHue": "360"
+    },
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "neopixel_set_strip_rainbow",
+    "block": "%strip|show rainbow from %startHue|to %endHue",
+    "weight": 85,
+    "blockGap": "8",
+    "paramHelp": {
+     "startHue": "the start hue value for the rainbow, eg: 1",
+     "endHue": "the end hue value for the rainbow, eg: 360"
+    },
+    "jsDoc": "Shows a rainbow pattern on all LEDs.",
+    "_name": "showRainbow"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "startHue",
+     "description": "the start hue value for the rainbow, eg: 1",
+     "type": "number",
+     "initializer": "1",
+     "default": "1",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "endHue",
+     "description": "the end hue value for the rainbow, eg: 360",
+     "type": "number",
+     "initializer": "360",
+     "default": "360",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "showRainbow()",
+   "qName": "neopixel_orange.Strip.showRainbow"
+  },
+  "neopixel_orange.Strip.showBarGraph": {
+   "kind": 1,
+   "namespace": "neopixel_orange.Strip",
+   "name": "showBarGraph",
+   "attributes": {
+    "paramDefl": {
+     "high": "255"
+    },
+    "callingConvention": 0,
+    "_source": null,
+    "weight": 84,
+    "blockId": "neopixel_show_bar_graph",
+    "block": "%strip|show bar graph of %value|up to %high",
+    "icon": "",
+    "paramHelp": {
+     "value": "current value to plot",
+     "high": "maximum value, eg: 255"
+    },
+    "jsDoc": "Displays a vertical bar graph based on the `value` and `high` value.\nIf `high` is 0, the chart gets adjusted automatically.",
+    "_name": "showBarGraph"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "value",
+     "description": "current value to plot",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "high",
+     "description": "maximum value, eg: 255",
+     "type": "number",
+     "initializer": "255",
+     "default": "255",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "showBarGraph(0, 255)",
+   "qName": "neopixel_orange.Strip.showBarGraph"
+  },
+  "neopixel_orange.Strip.setPixelColor": {
+   "kind": 1,
+   "namespace": "neopixel_orange.Strip",
+   "name": "setPixelColor",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "neopixel_set_pixel_color",
+    "block": "%strip|set pixel color at %pixeloffset|to %rgb=neopixel_colors",
+    "blockGap": "8",
+    "weight": 80,
+    "parts": "neopixel_orange",
+    "advanced": true,
+    "paramHelp": {
+     "pixeloffset": "position of the NeoPixel in the strip",
+     "rgb": "RGB color of the LED"
+    },
+    "jsDoc": "Set LED to a given color (range 0-255 for r, g, b). \nYou need to call ``show`` to make the changes visible.",
+    "_name": "setPixelColor"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "pixeloffset",
+     "description": "position of the NeoPixel in the strip",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "rgb",
+     "description": "RGB color of the LED",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "setPixelColor(0, 0)",
+   "qName": "neopixel_orange.Strip.setPixelColor"
+  },
+  "neopixel_orange.Strip.setMatrixWidth": {
+   "kind": 1,
+   "namespace": "neopixel_orange.Strip",
+   "name": "setMatrixWidth",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "neopixel_set_matrix_width",
+    "block": "%strip|set matrix width %width",
+    "blockGap": "8",
+    "weight": 5,
+    "advanced": true,
+    "paramHelp": {
+     "width": "number of pixels in a row"
+    },
+    "jsDoc": "Sets the number of pixels in a matrix shaped strip",
+    "_name": "setMatrixWidth"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "width",
+     "description": "number of pixels in a row",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "setMatrixWidth(0)",
+   "qName": "neopixel_orange.Strip.setMatrixWidth"
+  },
+  "neopixel_orange.Strip.setMatrixColor": {
+   "kind": 1,
+   "namespace": "neopixel_orange.Strip",
+   "name": "setMatrixColor",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "neopixel_set_matrix_color",
+    "block": "%string|set matrix color at x %x|y %y|to %rgb=neopixel_colors",
+    "weight": 4,
+    "advanced": true,
+    "paramHelp": {
+     "x": "horizontal position",
+     "y": "horizontal position",
+     "rgb": "RGB color of the LED"
+    },
+    "jsDoc": "Set LED to a given color (range 0-255 for r, g, b) in a matrix shaped strip \nYou need to call ``show`` to make the changes visible.",
+    "_name": "setMatrixColor"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "x",
+     "description": "horizontal position",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "y",
+     "description": "horizontal position",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "rgb",
+     "description": "RGB color of the LED",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "setMatrixColor(0, 0, 0)",
+   "qName": "neopixel_orange.Strip.setMatrixColor"
+  },
+  "neopixel_orange.Strip.setPixelWhiteLED": {
+   "kind": 1,
+   "namespace": "neopixel_orange.Strip",
+   "name": "setPixelWhiteLED",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "neopixel_set_pixel_white",
+    "block": "%strip|set pixel white LED at %pixeloffset|to %white",
+    "blockGap": "8",
+    "weight": 80,
+    "advanced": true,
+    "paramHelp": {
+     "pixeloffset": "position of the LED in the strip",
+     "white": "brightness of the white LED"
+    },
+    "jsDoc": "For NeoPixels with RGB+W LEDs, set the white LED brightness. This only works for RGB+W NeoPixels.",
+    "_name": "setPixelWhiteLED"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "pixeloffset",
+     "description": "position of the LED in the strip",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "white",
+     "description": "brightness of the white LED",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "setPixelWhiteLED(0, 0)",
+   "qName": "neopixel_orange.Strip.setPixelWhiteLED"
+  },
+  "neopixel_orange.Strip.show": {
+   "kind": 1,
+   "namespace": "neopixel_orange.Strip",
+   "name": "show",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "neopixel_show",
+    "block": "%strip|show",
+    "blockGap": "8",
+    "weight": 79,
+    "paramHelp": {},
+    "jsDoc": "Send all the changes to the strip.",
+    "_name": "show"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [],
+   "snippet": "show()",
+   "qName": "neopixel_orange.Strip.show"
+  },
+  "neopixel_orange.Strip.clear": {
+   "kind": 1,
+   "namespace": "neopixel_orange.Strip",
+   "name": "clear",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "neopixel_clear",
+    "block": "%strip|clear",
+    "weight": 76,
+    "paramHelp": {},
+    "jsDoc": "Turn off all LEDs.\nYou need to call ``show`` to make the changes visible.",
+    "_name": "clear"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [],
+   "snippet": "clear()",
+   "qName": "neopixel_orange.Strip.clear"
+  },
+  "neopixel_orange.Strip.length": {
+   "kind": 1,
+   "namespace": "neopixel_orange.Strip",
+   "name": "length",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "neopixel_length",
+    "block": "%strip|length",
+    "blockGap": "8",
+    "weight": 60,
+    "advanced": true,
+    "paramHelp": {},
+    "jsDoc": "Gets the number of pixels declared on the strip",
+    "_name": "length"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [],
+   "snippet": "length()",
+   "qName": "neopixel_orange.Strip.length"
+  },
+  "neopixel_orange.Strip.setBrightness": {
+   "kind": 1,
+   "namespace": "neopixel_orange.Strip",
+   "name": "setBrightness",
+   "attributes": {
+    "paramDefl": {
+     "brightness": "255"
+    },
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "neopixel_set_brightness",
+    "block": "%strip|set brightness %brightness",
+    "blockGap": "8",
+    "weight": 59,
+    "advanced": true,
+    "paramHelp": {
+     "brightness": "a measure of LED brightness in 0-255. eg: 255"
+    },
+    "jsDoc": "Set the brightness of the strip. This flag only applies to future operation.",
+    "_name": "setBrightness"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "brightness",
+     "description": "a measure of LED brightness in 0-255. eg: 255",
+     "type": "number",
+     "initializer": "255",
+     "default": "255",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "setBrightness(255)",
+   "qName": "neopixel_orange.Strip.setBrightness"
+  },
+  "neopixel_orange.Strip.easeBrightness": {
+   "kind": 1,
+   "namespace": "neopixel_orange.Strip",
+   "name": "easeBrightness",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "neopixel_each_brightness",
+    "block": "%strip|ease brightness",
+    "blockGap": "8",
+    "weight": 58,
+    "advanced": true,
+    "paramHelp": {},
+    "jsDoc": "Apply brightness to current colors using a quadratic easing function.",
+    "_name": "easeBrightness"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [],
+   "snippet": "easeBrightness()",
+   "qName": "neopixel_orange.Strip.easeBrightness"
+  },
+  "neopixel_orange.Strip.range": {
+   "kind": 1,
+   "namespace": "neopixel_orange.Strip",
+   "name": "range",
+   "attributes": {
+    "paramDefl": {
+     "length": "4"
+    },
+    "callingConvention": 0,
+    "_source": null,
+    "weight": 89,
+    "blockId": "neopixel_range",
+    "block": "%strip|range from %start|with %length|leds",
+    "blockSetVariable": "range",
+    "paramHelp": {
+     "start": "offset in the LED strip to start the range",
+     "length": "number of LEDs in the range. eg: 4"
+    },
+    "jsDoc": "Create a range of LEDs.",
+    "_name": "range"
+   },
+   "pkg": null,
+   "retType": "neopixel_orange.Strip",
+   "parameters": [
+    {
+     "name": "start",
+     "description": "offset in the LED strip to start the range",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "length",
+     "description": "number of LEDs in the range. eg: 4",
+     "type": "number",
+     "initializer": "4",
+     "default": "4",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "range(0, 4)",
+   "qName": "neopixel_orange.Strip.range"
+  },
+  "neopixel_orange.Strip.shift": {
+   "kind": 1,
+   "namespace": "neopixel_orange.Strip",
+   "name": "shift",
+   "attributes": {
+    "paramDefl": {
+     "offset": "1"
+    },
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "neopixel_shift",
+    "block": "%strip|shift pixels by %offset",
+    "blockGap": "8",
+    "weight": 40,
+    "paramHelp": {
+     "offset": "number of pixels to shift forward, eg: 1"
+    },
+    "jsDoc": "Shift LEDs forward and clear with zeros.\nYou need to call ``show`` to make the changes visible.",
+    "_name": "shift"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "offset",
+     "description": "number of pixels to shift forward, eg: 1",
+     "type": "number",
+     "initializer": "1",
+     "default": "1",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "shift()",
+   "qName": "neopixel_orange.Strip.shift"
+  },
+  "neopixel_orange.Strip.rotate": {
+   "kind": 1,
+   "namespace": "neopixel_orange.Strip",
+   "name": "rotate",
+   "attributes": {
+    "paramDefl": {
+     "offset": "1"
+    },
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "neopixel_rotate",
+    "block": "%strip|rotate pixels by %offset",
+    "blockGap": "8",
+    "weight": 39,
+    "paramHelp": {
+     "offset": "number of pixels to rotate forward, eg: 1"
+    },
+    "jsDoc": "Rotate LEDs forward.\nYou need to call ``show`` to make the changes visible.",
+    "_name": "rotate"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "offset",
+     "description": "number of pixels to rotate forward, eg: 1",
+     "type": "number",
+     "initializer": "1",
+     "default": "1",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "rotate()",
+   "qName": "neopixel_orange.Strip.rotate"
+  },
+  "neopixel_orange.Strip.setPin": {
+   "kind": 1,
+   "namespace": "neopixel_orange.Strip",
+   "name": "setPin",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "weight": 10,
+    "advanced": true,
+    "paramHelp": {},
+    "jsDoc": "Set the pin where the neopixel is connected, defaults to P0.",
+    "_name": "setPin"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "pin",
+     "description": "",
+     "type": "DigitalPin",
+     "options": {},
+     "isEnum": true
+    }
+   ],
+   "snippet": "setPin(null)",
+   "qName": "neopixel_orange.Strip.setPin"
+  },
+  "neopixel_orange.Strip.power": {
+   "kind": 1,
+   "namespace": "neopixel_orange.Strip",
+   "name": "power",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "weight": 9,
+    "blockId": "neopixel_power",
+    "block": "%strip|power (mA)",
+    "advanced": true,
+    "paramHelp": {},
+    "jsDoc": "Estimates the electrical current (mA) consumed by the current light configuration.",
+    "_name": "power"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [],
+   "snippet": "power()",
+   "qName": "neopixel_orange.Strip.power"
+  },
+  "neopixel_orange.create": {
+   "kind": 3,
+   "namespace": "neopixel_orange",
+   "name": "create",
+   "attributes": {
+    "paramDefl": {
+     "numleds": "24"
+    },
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "neopixel_create",
+    "block": "NeoPixel at pin %pin|with %numleds|leds as %mode",
+    "weight": 90,
+    "blockGap": "8",
+    "trackArgs": [
+     0,
+     2
+    ],
+    "blockSetVariable": "strip",
+    "paramHelp": {
+     "pin": "the pin where the neopixel is connected.",
+     "numleds": "number of leds in the strip, eg: 24,30,60,64"
+    },
+    "jsDoc": "Create a new NeoPixel driver for `numleds` LEDs.",
+    "_name": "create"
+   },
+   "pkg": null,
+   "retType": "neopixel_orange.Strip",
+   "parameters": [
+    {
+     "name": "pin",
+     "description": "the pin where the neopixel is connected.",
+     "type": "DigitalPin",
+     "options": {},
+     "isEnum": true
+    },
+    {
+     "name": "numleds",
+     "description": "number of leds in the strip, eg: 24,30,60,64",
+     "type": "number",
+     "initializer": "24",
+     "default": "24",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "mode",
+     "description": "",
+     "type": "NeoPixelMode",
+     "options": {},
+     "isEnum": true
+    }
+   ],
+   "snippet": "create(null, 24, null)",
+   "qName": "neopixel_orange.create"
+  },
+  "neopixel_orange.rgb": {
+   "kind": 3,
+   "namespace": "neopixel_orange",
+   "name": "rgb",
+   "attributes": {
+    "paramDefl": {
+     "red": "255",
+     "green": "255",
+     "blue": "255"
+    },
+    "callingConvention": 0,
+    "_source": null,
+    "weight": 1,
+    "blockId": "neopixel_rgb",
+    "block": "red %red|green %green|blue %blue",
+    "advanced": true,
+    "paramHelp": {
+     "red": "value of the red channel between 0 and 255. eg: 255",
+     "green": "value of the green channel between 0 and 255. eg: 255",
+     "blue": "value of the blue channel between 0 and 255. eg: 255"
+    },
+    "jsDoc": "Converts red, green, blue channels into a RGB color",
+    "_name": "rgb"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [
+    {
+     "name": "red",
+     "description": "value of the red channel between 0 and 255. eg: 255",
+     "type": "number",
+     "initializer": "255",
+     "default": "255",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "green",
+     "description": "value of the green channel between 0 and 255. eg: 255",
+     "type": "number",
+     "initializer": "255",
+     "default": "255",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "blue",
+     "description": "value of the blue channel between 0 and 255. eg: 255",
+     "type": "number",
+     "initializer": "255",
+     "default": "255",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "rgb(255, 255, 255)",
+   "qName": "neopixel_orange.rgb"
+  },
+  "neopixel_orange.colors": {
+   "kind": 3,
+   "namespace": "neopixel_orange",
+   "name": "colors",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "weight": 2,
+    "blockGap": "8",
+    "blockId": "neopixel_colors",
+    "block": "%color",
+    "advanced": true,
+    "paramHelp": {},
+    "jsDoc": "Gets the RGB value of a known color",
+    "_name": "colors"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [
+    {
+     "name": "color",
+     "description": "",
+     "type": "ColorSensorPixelColors",
+     "options": {},
+     "isEnum": true
+    }
+   ],
+   "snippet": "colors(null)",
+   "qName": "neopixel_orange.colors"
+  },
+  "neopixel_orange.hsl": {
+   "kind": 3,
+   "namespace": "neopixel_orange",
+   "name": "hsl",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "blockId": "neopixelHSL",
+    "block": "hue %h|saturation %s|luminosity %l",
+    "paramHelp": {
+     "h": "hue from 0 to 360",
+     "s": "saturation from 0 to 99",
+     "l": "luminosity from 0 to 99"
+    },
+    "jsDoc": "Converts a hue saturation luminosity value into a RGB color",
+    "_name": "hsl"
+   },
+   "pkg": null,
+   "retType": "number",
+   "parameters": [
+    {
+     "name": "h",
+     "description": "hue from 0 to 360",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "s",
+     "description": "saturation from 0 to 99",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "l",
+     "description": "luminosity from 0 to 99",
+     "type": "number",
+     "options": {},
+     "isEnum": false
+    }
+   ],
+   "snippet": "hsl(0, 0, 0)",
+   "qName": "neopixel_orange.hsl"
+  },
+  "neopixel_orange.HueInterpolationDirection": {
+   "kind": 6,
+   "namespace": "neopixel_orange",
+   "name": "HueInterpolationDirection",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "HueInterpolationDirection"
+   },
+   "pkg": null,
+   "retType": "neopixel_orange.HueInterpolationDirection",
+   "parameters": null,
+   "qName": "neopixel_orange.HueInterpolationDirection"
+  },
+  "neopixel_orange.HueInterpolationDirection.Clockwise": {
+   "kind": 7,
+   "namespace": "neopixel_orange.HueInterpolationDirection",
+   "name": "Clockwise",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Clockwise"
+   },
+   "pkg": null,
+   "retType": "neopixel_orange.HueInterpolationDirection",
+   "parameters": null,
+   "qName": "neopixel_orange.HueInterpolationDirection.Clockwise"
+  },
+  "neopixel_orange.HueInterpolationDirection.CounterClockwise": {
+   "kind": 7,
+   "namespace": "neopixel_orange.HueInterpolationDirection",
+   "name": "CounterClockwise",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "CounterClockwise"
+   },
+   "pkg": null,
+   "retType": "neopixel_orange.HueInterpolationDirection",
+   "parameters": null,
+   "qName": "neopixel_orange.HueInterpolationDirection.CounterClockwise"
+  },
+  "neopixel_orange.HueInterpolationDirection.Shortest": {
+   "kind": 7,
+   "namespace": "neopixel_orange.HueInterpolationDirection",
+   "name": "Shortest",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "Shortest"
+   },
+   "pkg": null,
+   "retType": "neopixel_orange.HueInterpolationDirection",
+   "parameters": null,
+   "qName": "neopixel_orange.HueInterpolationDirection.Shortest"
+  },
+  "ws2812b": {
+   "kind": 5,
+   "namespace": "",
+   "name": "ws2812b",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "ws2812b"
+   },
+   "pkg": null,
+   "retType": "",
+   "parameters": null,
+   "qName": "ws2812b"
+  },
+  "ws2812b.sendBuffer": {
+   "kind": 3,
+   "namespace": "ws2812b",
+   "name": "sendBuffer",
+   "attributes": {
+    "paramDefl": {},
+    "callingConvention": 0,
+    "_source": null,
+    "shim": "sendBufferAsm",
+    "paramHelp": {},
+    "jsDoc": "",
+    "_name": "sendBuffer"
+   },
+   "pkg": null,
+   "retType": "void",
+   "parameters": [
+    {
+     "name": "buf",
+     "description": "",
+     "type": "Buffer",
+     "options": {},
+     "isEnum": false
+    },
+    {
+     "name": "pin",
+     "description": "",
+     "type": "DigitalPin",
+     "options": {},
+     "isEnum": true
+    }
+   ],
+   "snippet": "sendBuffer(null, null)",
+   "qName": "ws2812b.sendBuffer"
+  }
+ }
+}
